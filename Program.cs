@@ -28,7 +28,7 @@ namespace Test
         }
 
         /// <summary>
-        /// Determines whether the triangle is rectangular
+        /// Determines whether the triangle is rectangular 445
         /// </summary>
         public static bool Rectangular(double ab, double ac, double bc)
         {
